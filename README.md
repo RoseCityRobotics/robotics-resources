@@ -48,6 +48,9 @@ We are an open startup working on research and education, advancing the future o
 - [ROS2 Advanced Tutorials](https://docs.ros.org/en/foxy/Tutorials/Advanced.html) - ros.org
 - [ROS Integration with Gazebo Simulation](https://gazebosim.org/docs/harmonic/tutorials#ros-integration) - Gazebo
 
+### Robotics Simulators
+- [Best-of-list of Robot Simulators](https://github.com/knmcguire/best-of-robot-simulators) - https://github.com/knmcguire
+
 ### Robotics Courses
 #### Introductory
 - [Design of Electromechanical Robotic Systems](https://ocw.mit.edu/courses/2-017j-design-of-electromechanical-robotic-systems-fall-2009/) - Massachusetts Institute of Technology
