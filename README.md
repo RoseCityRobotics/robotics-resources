@@ -49,7 +49,7 @@ We are an open startup working on research and education, advancing the future o
 - [ROS Integration with Gazebo Simulation](https://gazebosim.org/docs/harmonic/tutorials#ros-integration) - Gazebo
 
 ### Robotics Simulators
-- [Best-of-list of Robot Simulators](https://github.com/knmcguire/best-of-robot-simulators) - https://github.com/knmcguire
+- [Best-of-list of Robot Simulators](https://github.com/knmcguire/best-of-robot-simulators) - github.com/knmcguire
 
 ### Robotics Courses
 #### Introductory
